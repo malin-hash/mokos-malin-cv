@@ -12,9 +12,7 @@ export default function Content() {
       {/* Image */}
       <div className='flex justify-center items-center min-h-full'>
         <div className='aspect-square top-0 left-0  w-48 sm:w-96 md:w-72 rounded-full overflow-hidden mb-8 '>
-          <div className='aspect-square absolute w-36 sm:w-64 md:w-72 md:top-32 left-32 md:left-56 top-20 inset-0 rounded-full spin-reverse border-4 border-r-transparent border-t-green-600 border-b-red-600 border-l-transparent z-0'></div>
-          <div className='aspect-square absolute w-36 sm:w-64 md:w-72 md:top-32 left-32 md:left-56 top-20 inset-2 rounded-full animate-spin border-4 border-r-transparent border-t-white border-b-blue-600 border-l-yellow-500 z-0'></div>
-        <img  className="w-full h-full object-cover border " src="../../public/Images/portfolio1.PNG" alt="" />
+      <img  className="w-full h-full object-cover border " src="images/portfolio1.PNG" alt="" />
       </div>
       </div>
       {/* Info */}

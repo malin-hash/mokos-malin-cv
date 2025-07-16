@@ -12,7 +12,7 @@ export default function DevWeb({exitModal}) {
         <div className='rounded-xl bg-gray-600 shadow-lg w-full h-full max-w-screen-lg max-h-screen overflow-y-auto p-6 custom-scrollbar'>
             <button onClick={exitModal} className='mb-2 px-3'><FaXmark className='text-red-800 text-xl md:text-3xl hover:text-red-500'/></button>
                 <div className='shadow-2xl'>
-                    <img src="../../public/Images/4.jpg" alt='dev' className='objet-cover w-[100%] h-[10rem] rounded-xl' />
+                    <img src="images/4.jpg" alt='dev' className='objet-cover w-[100%] h-[10rem] rounded-xl' />
                 </div>
             <h2 className='text-2xl text-green-400 mb-4 text-center font-extrabold mt-4'>{t('service.web.title')}</h2>
             <h1 className=' px-3 max-w-2xl mx-auto text-2xl font-extrabold text-green-500'> 1. {t('service.web.app.title1')} :</h1>
