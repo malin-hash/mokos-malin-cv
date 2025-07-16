@@ -1,0 +1,149 @@
+{
+    "navbar": {
+       "home": "Acceuil",
+       "about": "A propos",
+       "contact": "Contact",
+       "language": "Langue",
+       "service": "Services",
+       "project": "Projets",
+       "english": "Anglais",
+       "french": "Français"
+    },
+      "home": {
+    "title": "Bonjour ! bienvenue sur mon portfolio !",
+    "title2": "Je suis",
+    "content": "Je suis un développeur full-stack passionné par la création d'applications web élégantes.",
+   "title3": "N'hésitez pas à me contacter par e-mail ou sur les réseaux sociaux."
+
+   },
+      "contact": {
+      "name": "Votre nom ...",
+      "mail": "Votre adresse e-mail ...",
+      "object": "Objet du message ...",
+      "message": "Votre message ...",
+      "button": "Envoyer",
+      "title": " Contactez-moi",
+      "validation": {
+         "name": "Le nom est requis",
+         "email": "Adresse E-mail invalide",
+         "emailReq": "E-mail est requis",
+         "subject": "Sujet est requis",
+         "message": "Message est requis"
+      },
+      "msg": "Email envoyé avec succès !",
+      "msg1": "Une erreur est survenue lors de l'envoi de l'email."
+   },
+    "about": {
+      "button1": "Diplôme scolaire et Universitaire",
+      "button2": "Technologies Maitrisées",
+      "title": "Profil",
+      "profile": "Je suis Mokosseakowo Loïs Ezechiel, de nationnalité Centrafricaine, Agé de 22 ans Et développeur web Fullstack depuis trois (3) ans. Je suis passioné par la programation des applications Web et je suis en perpétuel quête du savoir."
+   },
+   "degree": {
+      "licence": {
+         "title": "Licence Professionnelle en Informatique",
+         "school": "Office National de l'Informatique (ONI)",
+         "year": "2025",
+         "field": "Informatique de Gestion"
+      },
+      "baccalaureat": {
+         "title": "Baccalauréat Scientifique",
+         "school": "Complexe Scolaire du Centre Protestant pour la jeunesse (CS.CPJ)",
+         "field": "C"
+      },
+      "bts": {
+         "title": "Brevet de Technicien Supérieur en Informatique",
+         "school": "Office National de l'Informatique (ONI)",
+         "field": "Informatique de Gestion"
+      },
+      "dut": {
+         "title": "Diplôme Universitaire de Technologie en Informatique",
+         "school": "Office National de l'Informatique (ONI)",
+         "field": "Informatique de Gestion"
+      },
+      "brevet": {
+         "title": "Brevet de College",
+         "school": "Complexe Scolaire du Centre Protestant pour la jeunesse (CS.CPJ)"
+      },
+      "cf1": {
+         "title": "Certificat de Fin d'Etude Primaire",
+         "school": "Saint Charles"
+      },
+      "school": "Ecole",
+      "year": "Année",
+      "field": "Filière/Série"  
+   },
+      "project": {
+      "title": "Mes Projets",
+         "erp": {
+      "title": "ERP Gestion d'Entreprise",
+      "description": "Un ERP (Enterprise Resource Planning) est un système d'information intégré qui permet de gérer l'ensemble des processus d'une entreprise, tels que la gestion de personnel, la clientelle, la gestion du pack informatique, etc. Il permet une meilleure coordination entre les différents services de l'entreprise et une meilleure prise de décision grâce à une vision globale des activités."
+   },
+   "e-commerce": {
+      "title": "E-commerce Shop",
+      "description": "Un site e-commerce est une plateforme en ligne qui permet aux entreprises de vendre leurs produits ou services directement aux consommateurs. Il offre une expérience d'achat pratique et accessible, avec des fonctionnalités telles que la gestion des stocks, le traitement des paiements et la livraison."
+   },
+   "gestion": {
+      "title": "Gestion de Vente",
+      "description": "Un système de gestion de vente est un logiciel qui permet aux entreprises de suivre et de gérer leurs ventes, y compris la gestion des commandes, des factures et des paiements. Il aide à optimiser les processus de vente et à améliorer la satisfaction client."
+   },
+   "messagerie": {
+      "title": "Messagerie Instantanée",
+      "description": "Une messagerie instantanée est une application qui permet aux utilisateurs de communiquer en temps réel via des messages texte, des appels audio et vidéo. Elle facilite la communication rapide et efficace entre les individus ou les groupes."
+   },
+   "forum": {
+      "title": "Forum de Discussion",
+      "description": "Un forum de discussion est une plateforme en ligne où les utilisateurs peuvent échanger des idées, poser des questions et partager des informations sur divers sujets. Il favorise la collaboration et l'interaction entre les membres d'une communauté."
+   },
+   "blog": {
+      "title": "Blog Personnel",
+      "description": "Un blog personnel est un site web où une personne partage ses réflexions, ses expériences et ses connaissances sur divers sujets. Il permet de créer une connexion avec un public et de partager des idées de manière informelle."
+   }
+   },
+   "service": {
+      "title": "Mes Services",
+      "web": {
+         "title": "Développement Web",
+         "description": "Création de sites web modernes et réactifs, adaptés à vos besoins spécifiques.",
+         "app": {
+            "title1": "Création des sites Web responsives",
+            "description1": "Je conçois des sites web modernes, fluides et adaptés à tous les écran (Ordinateur, Tablette, Téléphone). J'utilise principalement React, Tailwind Css, JavaScript Pour une expérience utilisateur rapide et agréable. Tous mes sites sont optimisés pour un chargement rapide, un bon référencement (SEO de base), et un design profésionnel",
+            "title2": "Developpement des applications webs completes full-stack",
+            "description": "Je développe des applications web complètes, de la conception à l'implémentation, en utilisant des technologies modernes et robustes. Cela inclut la création de bases de données, le développement de l'interface utilisateur et la mise en place de fonctionnalités avancées pour répondre à vos besoins spécifiques.",
+            "title3": "Intégration d'API et de services tiers",
+            "description3": "J'intègre des API et des services tiers pour enrichir les fonctionnalités de vos applications web. Cela peut inclure des services de paiement, des systèmes de gestion de contenu, des outils d'analyse et bien plus encore, afin d'améliorer l'expérience utilisateur et la performance de votre application.",
+            "title4": "Authentification et gestion des Utilisateurs",
+            "description4": "Je mets en place des systèmes d'authentification sécurisés pour vos applications web, permettant aux utilisateurs de se connecter et de gérer leurs comptes de manière sécurisée. Cela inclut la gestion des rôles et des permissions, ainsi que la protection des données sensibles.",
+            "title5": "Méssagérie ou système de notification en temps réel",
+            "description5": "Je développe des systèmes de messagerie ou de notification en temps réel pour vos applications, permettant aux utilisateurs de communiquer instantanément et de recevoir des mises à jour en direct. Cela peut inclure des fonctionnalités de chat, d'alertes et de notifications push pour une interaction fluide.",
+            "title6": " Dashboards / Back-Offices / Admin Panels ",
+            "description6": "Je crée des tableaux de bord et des panneaux d'administration personnalisés pour vos applications, permettant une gestion facile et efficace des données. Ces interfaces sont conçues pour être intuitives et adaptées à vos besoins spécifiques, facilitant la prise de décision et le suivi des performances."
+            
+         }
+      },
+      "analyse": {
+         "title": "Analyse, Conception et Implémentation",
+         "description": "Analyse approfondie de vos besoins, conception de solutions sur mesure et implémentation efficace.",
+         "app": {
+            "objectif": "Objectif",
+            "description":"Concevoir des bases de données optimisées et structurées, parfaitemement adaptées aux besoins spécisfiques des application",
+            "title1": "Ce que fais le système",
+            "description1": "Je réalise une analyse approfondie de vos besoins pour comprendre les fonctionnalités et les exigences de votre application. Cela inclut la collecte des spécifications fonctionnelles et techniques, ainsi que l'identification des contraintes et des opportunités.",
+            "title2": "technologies utilisées",
+            "description2": "J'utilise des technologies modernes et éprouvées pour garantir la performance, la sécurité et la scalabilité de vos applications. Cela inclut des frameworks de développement web, des bases de données relationnelles et non relationnelles, ainsi que des outils de gestion de projet et de versionnage."
+         }
+      },
+      "maintenance": {
+         "title": "Maintenance Informatique",
+         "description": "Assistance technique et maintenance de vos systèmes informatiques pour garantir leur bon fonctionnement.",
+         "app":{
+            "objectif": "Ce que je propose",
+            "description":"Diagnostic et dépannage d'ordinateur (lenteur, écran bleu, virus etc ...), Nettoyage, optimisation et mise à jour du système (Windows / Linux), installation et configuration de logiciels et pilotes, nétoyage matériel, vérification des performances",
+            "security": "Sécurité",
+            "securityDescription": "Je mets en place des mesures de sécurité pour protéger vos systèmes informatiques contre les menaces potentielles. Cela inclut la configuration de pare-feu, l'installation d'antivirus, et la mise à jour régulière des logiciels pour garantir une protection optimale."
+         }
+      }
+   },
+   "btn": "Quitter"
+
+}

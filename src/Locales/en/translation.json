@@ -1,0 +1,148 @@
+{
+    "navbar": {
+       "home": "Home",
+       "about": "About",
+       "contact": "Contact",
+       "language": "Language",
+       "service": "Services",
+       "project": "Projects",
+       "english": "English",
+       "french": "French"
+    },
+   "home": {
+    "title": "Hello ! Welcom to my portfolio !",
+    "title2": "I'm",
+    "content": "I'm a full-stack developer passionate about building beautiful web applications",
+   "title3": "Feel free to reach out to me through e-mail or social media."
+
+   },
+   "contact": {
+      "name": "Your name ...",
+      "mail": "Your E-mail address ...",
+      "object": "Message object",
+      "message": "Your message ...",
+      "button": "Send",
+      "title": "Contact me !",
+       "validation": {
+         "name": "Name is required",
+         "email": "Invalid email address",
+         "emailReq": "Email is required",
+         "subject": "Subject is required",
+         "message": "Message is required"
+      },
+      "msg": "Email sent successfully !",
+      "msg1": "An error occurred while sending the email."
+   },
+   "about": {
+      "button1": "secondary school and university degrees.",
+      "button2": "Technical skills",
+      "title": "Profile",
+      "profile": "I'm Mokosseakowo Loïs Ezechiel, I'm 22 years old and a citizen of the Central African Republic and a full-stack web developer, for the past three (3) years. I'm passionate about web application development and constantly seeking to expand my knowledge"
+   },
+   "degree": {
+      "licence": {
+         "title": "Professional Bachelor's Degree in Computer Science",
+         "school": "National Office of Computer Science (ONI)",
+         "field": "Management Informatics"
+      },
+      "baccalaureat": {
+         "title": "Scientific Baccalaureate",
+         "school": "Protestant Center School Complex for Youth (CS.CPJ)",
+         "field": "C"
+      },
+      "bts": {
+         "title": "Higher Technician Certificate in Computer Science",
+         "school": "National Office of Computer Science (ONI)",
+         "field": "Management Informatics"
+      },
+      "dut": {
+         "title": "University Diploma of Technology in Computer Science",
+         "school": "National Office of Computer Science (ONI)",
+         "field": "Management Informatics"
+      },
+      "brevet": {
+         "title": "College Certificate",
+         "school": "Protestant Center School Complex for Youth (CS.CPJ)"
+      },
+       "cf1": {
+         "title": "Primary School Leaving Certificate",
+         "school": "Saint Charles"
+      },
+      "school": "School",
+      "year": "Year",
+      "field": "Field/Major"
+   },
+   "project": {
+      "title": "My Projects",
+      "erp": {
+      "title": "ERP Enterprise Management",
+      "description": "An ERP (Enterprise Resource Planning) is an integrated information system that allows managing all the processes of a company, such as personnel management, customer management, IT package management, etc. It enables better coordination between different departments of the company and better decision-making through a global view of activities."
+   },
+   "e-commerce": {
+      "title": "E-commerce Shop",
+      "description": "An e-commerce platform is a website that allows businesses to sell products or services online. It provides a user-friendly interface for customers to browse products, add them to their cart, and complete purchases securely."
+   },
+   "gestion": {
+      "title": "Management Application",
+      "description": "A management application is a software solution designed to help businesses manage their operations efficiently. It can include features such as task management, project tracking, resource allocation, and reporting tools to streamline business processes."
+   },
+   "messagerie": {
+      "title": "Messaging Application",
+      "description": "A messaging application is a software platform that enables users to send and receive messages in real-time. It can include features such as text messaging, file sharing, voice and video calls, and group chats to facilitate communication between individuals or teams."
+   },
+   "forum": {
+      "title": "Forum Application",
+      "description": "A forum application is an online platform that allows users to engage in discussions, ask questions, and share information on various topics. It typically includes features such as threads, posts, user profiles, and moderation tools to facilitate community interaction."
+   },
+   "blog": {
+      "title": "Blog Application",
+      "description": "A blog application is a web-based platform that allows users to create, publish, and manage blog posts. It typically includes features such as post creation, commenting, categorization, and user profiles to facilitate content sharing and interaction with readers."
+   }
+   },
+   "service": {
+      "title": "Services",
+      "web": {
+         "title": "Web Development",
+         "description": "Creation of websites and web applications tailored to your needs, with a focus on user experience and performance.",
+         "app": {
+            "title1": "Responsive Web Design",
+            "description1": "I design modern, fluid websites that adapt to all screen sizes (desktop, tablet, mobile). I primarily use React, Tailwind CSS, and JavaScript for a fast and pleasant user experience. All my sites are optimized for quick loading, basic SEO, and professional design.",
+            "title2": "Full-Stack Web Application Development",
+            "description": "I develop complete web applications, from design to implementation, using modern and robust technologies. This includes creating databases, developing user interfaces, and implementing advanced features to meet your specific needs.",
+            "title3": "API and Third-Party Service Integration",
+            "description3": "I integrate APIs and third-party services to enhance the functionality of your web applications. This can include payment services, content management systems, analytics tools, and more, to improve user experience and application performance.",
+            "title4": "User Authentication and Management",
+            "description4": "I implement secure authentication systems for your web applications, allowing users to log in and manage their accounts securely. This includes role and permission management, as well as protecting sensitive data.",
+            "title5": "Real-Time Messaging or Notification System",
+            "description5": "I develop real-time messaging or notification systems for your applications, allowing users to communicate instantly and receive live updates. This can include chat features, alerts, and push notifications for smooth interaction.",
+            "title6": "Dashboards / Back-Offices / Admin Panels",
+            "description6": "I create custom dashboards and admin panels for your applications, allowing easy and efficient data management. These interfaces are designed to be intuitive and tailored to your specific needs, facilitating decision-making and performance tracking."
+         }
+      },
+      "analyse": {
+         "title": "Analysis, Design, and Implementation",
+         "description": "In-depth analysis of your needs, design of custom solutions, and efficient implementation.",
+         "app": {
+            "objectif": "Objective",
+            "description": "Design optimized and structured databases, perfectly tailored to the specific needs of applications.",
+            "title1": "What the system does",
+            "description1": "I conduct a thorough analysis of your needs to understand the functionalities and requirements of your application. This includes gathering functional and technical specifications, as well as identifying constraints and opportunities.",
+            "title2": "Technologies used",
+            "description2": "I use modern and proven technologies to ensure the performance, security, and scalability of your applications. This includes web development frameworks, relational and non-relational databases, as well as project management and version control tools."
+         }
+      },
+    "maintenance": {
+         "title": "IT Maintenance",
+         "description": "Technical support and maintenance of your IT systems to ensure their proper functioning.",
+         "app":{
+            "objectif": "What I offer",
+            "description": "Diagnosis and troubleshooting of computers (slow performance, blue screen, viruses, etc.), cleaning, optimization, and system updates (Windows/Linux), installation and configuration of software and drivers, hardware cleaning, performance checks.",
+            "security": "Security",
+            "securityDescription": "I implement security measures to protect your IT systems against potential threats. This includes configuring firewalls, installing antivirus software, and regularly updating software to ensure optimal protection."
+         }
+      }
+   },
+   "btn": "Exit"
+   
+
+}
