@@ -19,9 +19,9 @@ export default function MesServices() {
   const startMaintenance = () => setModalMaintenance(true); 
   
   const services = [
-    {id: 1, description: t('service.web.description'), titre: t('service.web.title'), avatar: 'images/4.jpg', modal: startModal},
-    {id: 2, description: t('service.analyse.description'), titre: t('service.analyse.title'), avatar: 'images/web.jfif', modal: startAnalyse},
-    {id: 3, description: t('service.maintenance.description'), titre: t('service.maintenance.title'), avatar: 'images/maint2.jfif', modal: startMaintenance},
+    {id: 1, description: t('service.web.description'), titre: t('service.web.title'), avatar: '/images/4.jpg', modal: startModal},
+    {id: 2, description: t('service.analyse.description'), titre: t('service.analyse.title'), avatar: '/images/web.jfif', modal: startAnalyse},
+    {id: 3, description: t('service.maintenance.description'), titre: t('service.maintenance.title'), avatar: '/images/maint2.jfif', modal: startMaintenance},
   ] 
   return (
     <div className='md:mt-20 px-6'>

@@ -7,12 +7,12 @@ import { useTranslation } from 'react-i18next'
 export default function Projects() {
   const {t} = useTranslation();
   const services = [
-    {id: 1, description: t('project.erp.description'), titre:  t('project.erp.title'), avatar: 'images/erp.png', technologie: 'JavaScript, Css, JQuery, JWT, Symfony', statut: '', lien: 'https://github.com/malin-hash/ERP_gestion'},
-    {id: 2, description:  t('project.e-commerce.description'), titre:  t('project.e-commerce.title'), avatar: 'images/ecommerce (1).png', technologie: 'JavaScript, Css, JQuery, JWT, Symfony', statut: '', lien: 'https://github.com/malin-hash/Ecommerce_dev'},
-    {id: 3, description:  t('project.messagerie.description'), titre:  t('project.messagerie.title'), avatar: 'images/chat.png', technologie: 'React, Formik, Yup, TailwindCss, JWT, Symfony', statut: 'En développement...'},
-    {id: 4, description:  t('project.gestion.description'), titre:  t('project.gestion.title'), avatar:'images/vente.jpeg', technologie: 'PHP, HTML, CSS, JavaScript, Bootstrap', statut: '', lien: 'https://github.com/malin-hash/App_gestion_dev'},
-    {id:5, description:  t('project.forum.description'), titre:  t('project.forum.title'), avatar: 'images/forum.jpeg', technologie: 'JavaScript, Css, HTML, PHP POO', statut: '', lien: 'https://github.com/malin-hash/Forum_dev'},
-    {id: 6, description: t('project.blog.description'), titre:  t('project.blog.title'), avatar: 'images/blog.jpeg', technologie: 'JavaScript, Css, HTML, Boostrap, PHP POO', statut: '', lien: 'https://github.com/malin-hash/Blog_dev'}
+    {id: 1, description: t('project.erp.description'), titre:  t('project.erp.title'), avatar: '/images/erp.png', technologie: 'JavaScript, Css, JQuery, JWT, Symfony', statut: '', lien: 'https://github.com/malin-hash/ERP_gestion'},
+    {id: 2, description:  t('project.e-commerce.description'), titre:  t('project.e-commerce.title'), avatar: '/images/ecommerce (1).png', technologie: 'JavaScript, Css, JQuery, JWT, Symfony', statut: '', lien: 'https://github.com/malin-hash/Ecommerce_dev'},
+    {id: 3, description:  t('project.messagerie.description'), titre:  t('project.messagerie.title'), avatar: '/images/chat.png', technologie: 'React, Formik, Yup, TailwindCss, JWT, Symfony', statut: 'En développement...'},
+    {id: 4, description:  t('project.gestion.description'), titre:  t('project.gestion.title'), avatar:'/images/vente.jpeg', technologie: 'PHP, HTML, CSS, JavaScript, Bootstrap', statut: '', lien: 'https://github.com/malin-hash/App_gestion_dev'},
+    {id:5, description:  t('project.forum.description'), titre:  t('project.forum.title'), avatar: '/images/forum.jpeg', technologie: 'JavaScript, Css, HTML, PHP POO', statut: '', lien: 'https://github.com/malin-hash/Forum_dev'},
+    {id: 6, description: t('project.blog.description'), titre:  t('project.blog.title'), avatar: '/images/blog.jpeg', technologie: 'JavaScript, Css, HTML, Boostrap, PHP POO', statut: '', lien: 'https://github.com/malin-hash/Blog_dev'}
   ] 
   return (
     <div className='md:mt-20 px-6'>
