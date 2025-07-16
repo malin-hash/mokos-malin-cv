@@ -12,7 +12,7 @@ export default function Content() {
       {/* Image */}
       <div className='flex justify-center items-center min-h-full'>
         <div className='aspect-square top-0 left-0  w-48 sm:w-96 md:w-72 rounded-full overflow-hidden mb-8 '>
-      <img  className="w-full h-full object-cover border " src="images/portfolio.jpeg" alt="" />
+      <img  className="w-full h-full object-cover border " src="/images/portfolio.jpeg" alt="" />
       </div>
       </div>
       {/* Info */}
